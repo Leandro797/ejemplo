@@ -14,6 +14,7 @@ const factorial = num => {
 
 var final = factorial (Number(numero));
 console.log(final);
+console.log('Hola');
 
 
 
